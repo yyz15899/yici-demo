@@ -1,0 +1,6 @@
+.env
+.venv/
+.venv-msys-old/
+__pycache__/
+*.pyc
+.pytest_cache/
